@@ -1,4 +1,4 @@
-# STI-PSD: Spatiotemporal Water-Quality Image Imputation and Pollution Source Detection
+# STI-PSD（Test）: Spatiotemporal Water-Quality Image Imputation and Pollution Source Detection
 
 This warehouse is used to complete incomplete spatio-temporal images of water quality and to regression the parameters of pollution sources using residual networks.
 The warehouse contains 64 simulation samples and five basic completion methods (zero-fill, linear interpolation, fixed rank, Telea, N-S).
