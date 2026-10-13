@@ -1,0 +1,33 @@
+{
+  "package_version": "0.1.1",
+  "python": "3.13.5",
+  "dependencies": {
+    "numpy": "2.4.4",
+    "opencv-python": "5.0.0.93",
+    "scikit-image": "0.26.0",
+    "torch": "2.13.0"
+  },
+  "data_sha256": "f609546292b531248ac07ac427b654d72977ad85d8642b494c69a27836073a4f",
+  "samples": 64,
+  "split_counts": {
+    "train": 44,
+    "val": 9,
+    "test": 11
+  },
+  "methods": [
+    "no_completion",
+    "linear",
+    "dineof_fixed_rank",
+    "telea",
+    "ns_only"
+  ],
+  "completion_rows": 165,
+  "train_epochs": 0,
+  "best_epoch": null,
+  "source_strategy": "not_run",
+  "clipped_pixels_fraction": {
+    "train": 0.0,
+    "val": 0.0,
+    "test": 0.0
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "component": "resnet_model",
+    "source": "scripts/imputation_ablation_v2/resnet_model.py",
+    "sha256": "2522245001a47a8fe85d658c485fb4bf29b57c0e8b19d1b61ea03369953bbbcb",
+    "treatment": "byte-identical copy"
+  },
+  {
+    "component": "case_s_result2_lib.py",
+    "source": "stipsd_repro/case_s_result2_lib.py",
+    "sha256": "fbc8a7f4f77c8669f2295c6e21e5535665c55f589faa39fcf371b2ac0c9e2a90",
+    "treatment": "conceptual and code adaptation; not byte-identical"
+  },
+  {
+    "component": "train_and_evaluate.py",
+    "source": "stipsd_repro/train_and_evaluate.py",
+    "sha256": "f747d2b7a499b1d563934f1d83ddf2fcc048b3fe10bed83eba4e6fba15944020",
+    "treatment": "conceptual and code adaptation; not byte-identical"
+  },
+  {
+    "component": "case_s_stipsd.py",
+    "source": "stipsd_repro/case_s_stipsd.py",
+    "sha256": "fcd87b7fd4ad1e8270c6da54273bfc0c10b0cac8180a2da5d0ae46070b919428",
+    "treatment": "conceptual and code adaptation; not byte-identical"
+  }
+]

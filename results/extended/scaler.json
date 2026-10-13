@@ -1,0 +1,26 @@
+{
+  "fitted_on": "train_only",
+  "image_offset": 0.0,
+  "image_divisor": 4318.4990234375,
+  "label_order": [
+    "T",
+    "L",
+    "M_raw"
+  ],
+  "label_mean": [
+    41.6136360168457,
+    2557.580322265625,
+    32410618.0
+  ],
+  "label_std": [
+    23.921476364135742,
+    1059.99951171875,
+    24671306.0
+  ],
+  "label_range": [
+    77.0,
+    3797.3798828125,
+    89433544.0
+  ],
+  "note": "No conversion of archived mass units; no per-test-image scaling."
+}

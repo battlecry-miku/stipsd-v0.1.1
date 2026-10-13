@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "scenarios": [
+    "spatial_strip",
+    "temporal_truncation",
+    "mixed"
+  ],
+  "missing_rates": [
+    0.3
+  ],
+  "svd_rank": 6,
+  "svd_iterations": 20,
+  "adr_proxy": {
+    "u_pixel": 0.4,
+    "d_pixel": 0.2,
+    "k_pixel": 0.01,
+    "iterations": 15,
+    "learning_rate": 0.02,
+    "status": "illustrative_not_calibrated_to_the_river"
+  }
+}

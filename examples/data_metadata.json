@@ -1,0 +1,26 @@
+{
+  "sample_count": 64,
+  "selection_seed": 42,
+  "selection": "permuted numeric file order, first 64 unique nonnegative float32 images",
+  "skipped_before_64_selected": {
+    "negative_concentration": 211,
+    "duplicate_float32_image": 0
+  },
+  "representativeness": "quality_filtered_subset",
+  "source_type": "simulated_concentration_fields",
+  "label_order": [
+    "T",
+    "L",
+    "M_raw"
+  ],
+  "label_conversion": "none",
+  "axis_interpretation": [
+    "space",
+    "time"
+  ],
+  "axis_basis": "ADR residual convention in stipsd/physics.py",
+  "sha256": "f609546292b531248ac07ac427b654d72977ad85d8642b494c69a27836073a4f",
+  "source_archive": "TP_S1_ALL",
+  "source_doi": "https://doi.org/10.5281/zenodo.21498704",
+  "license": "subject to the license of the source record"
+}

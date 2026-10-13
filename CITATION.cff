@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript; bibliographic details will be added on publication."
+title: "STI-PSD: water-quality image completion and pollution source identification"
+type: software
+version: 0.1.1
+license: MIT
+authors:
+  - family-names: Zhu
+    given-names: Zhe
+  - family-names: Li
+    given-names: Yu
+  - family-names: Fu
+    given-names: Guangtao
+  - family-names: Han
+    given-names: Jianxu
+  - family-names: Zhang
+    given-names: Chi
+  - family-names: Zhou
+    given-names: Yuliang
+abstract: "Completion of incomplete space-time water-quality images and residual-network regression of pollution source parameters."
+keywords:
+  - pollution source identification
+  - water quality
+  - image completion
